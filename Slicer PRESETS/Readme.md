@@ -1,1 +1,0 @@
-Presets to be released, please be patient or ask for help at contact@excellence3d.com

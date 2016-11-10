@@ -1,0 +1,5 @@
+Extruder under GPLv3 license. 
+
+https://www.gnu.org/licenses/quick-guide-gplv3.fr.html
+http://www.gnu.org/copyleft/gpl.html
+
